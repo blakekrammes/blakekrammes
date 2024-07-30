@@ -1,1 +1,1 @@
-![Codewars](https://github.r2v.ch/codewars?user=blakekrammes&stroke=blue)
+![Code Wars Badge](https://www.codewars.com/users/blakekrammes/badges/large)
